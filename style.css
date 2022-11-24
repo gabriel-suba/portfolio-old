@@ -101,6 +101,14 @@ img {
 	gap: 0.85rem;
 }
 
+.clr-accent {
+	color: var(--clr-accent);
+}
+
+.clr-black {
+	color: rgb(51, 43, 124);
+}
+
 /* NAV */
 
 .nav {
