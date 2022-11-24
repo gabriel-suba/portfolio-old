@@ -5,7 +5,7 @@ const about_paragraph = document.querySelectorAll('.about__paragraph')
 const about_name = document.querySelector('.about__name')
 
 const options = {
-	threshold: 0.3,
+	threshold: 0.2,
 	// rootMargin: '-300px'
 }
 

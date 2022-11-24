@@ -236,16 +236,25 @@ img {
 	margin-bottom: 1.2rem;
 }
 
-.project__number,
 .project__link {
 	font-size: 1.1rem;
 	padding: 0.5rem;
 }
 
 .project__number {
-	border-radius: 1rem;
+	height: 34px;
+	width: 34px;
+
+	display: flex;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+
+	border-radius: 50%;
 	background-color: var(--clr-dgray);
+
 	color: #FFFFFF;
+	font-size: 1.1rem;
 }
 
 .project__link {
